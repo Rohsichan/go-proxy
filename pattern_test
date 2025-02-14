@@ -1,0 +1,14 @@
+{,~{,{{
+- follow_1: 
+[
+	[
+		{
+			"match_type": 1,
+			"from": -1,
+			"distance": 100,
+			"value": "(\\$|#|\\*|\\{)?\\{\ *(['\"\\d]+\ *[\\+\\-*\\/%]\ *['\"\\d]+)\ *\\}\\}?"
+		}
+	]
+]</code></pre>
+<ul id="bkmrk-regex101">
+<li class="null"><strong>regex
